@@ -1,25 +1,25 @@
 {"myBudget":
     [
         {"title":"Eat out",
-            "budget":25
+            "budget":100
             },
             {"title":"Rent",
                 "budget":375
                 },
-                {"title":"Hobbies",
-                    "budget":75
+                {"title":"Insurance",
+                    "budget":50
                     },
-                    {"title":"College",
-                        "budget":500
+                    {"title":"Medicines",
+                        "budget":45
                         },
                         {"title":"Electricity",
-                            "budget":50
+                            "budget":60
                             },
-                            {"title":"Water",
+                            {"title":"Shopping",
                                 "budget":50
                                 },
-                                {"title":"Grocery",
-                                    "budget":110
+                                {"title":"Miscellenious",
+                                    "budget":120
                                     }
                                 ]
                             }
